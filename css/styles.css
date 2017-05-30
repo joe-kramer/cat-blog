@@ -11,3 +11,8 @@ img {
 h2 {
   color: red;
 }
+
+.lightOnDark {
+  background-color: darkgray;
+  color: white;
+}
